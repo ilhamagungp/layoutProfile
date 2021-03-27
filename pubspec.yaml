@@ -63,7 +63,7 @@ flutter:
       fonts:
         - asset: assets/fonts/Poppins-Bold.ttf
           weight: 600
-        - asset: assets/fonts/Medium-Bold.ttf
+        - asset: assets/fonts/Medium.ttf
           weight: 500
         - asset: assets/fonts/Poppins-Light.ttf
           weight: 100
